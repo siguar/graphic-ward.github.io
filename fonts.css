@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Mayan;
+    src: url("MayanII.ttf");
+}
+
+@font-face{
+    font-family: Normal;
+    src: url("normal.ttf");
+}
+#font1{
+    font-family: Mayan;
+    font-size: 120px;
+    font-weight: normal;
+    overflow: hidden;
+}
+#font2{
+    font-family: Normal;
+    font-size: 50px;
+}
+#font3{
+    font-family: Normal;
+    font-size: 20x;
+}

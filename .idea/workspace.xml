@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbd6e14e-229c-4530-b141-844f6cd05849" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UZADWcBdQlXAJZ2dFIMEZKIHT2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbd6e14e-229c-4530-b141-844f6cd05849" name="Default Changelist" comment="" />
+      <created>1575553625029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575553625029</updated>
+      <workItem from="1575553627024" duration="3388000" />
+      <workItem from="1575557201670" duration="4000" />
+      <workItem from="1575563571351" duration="1531000" />
+      <workItem from="1575566399730" duration="10185000" />
+      <workItem from="1575580891417" duration="9498000" />
+      <workItem from="1575636078757" duration="1187000" />
+      <workItem from="1575645105182" duration="1849000" />
+      <workItem from="1575651244175" duration="1673000" />
+      <workItem from="1575667296570" duration="1903000" />
+      <workItem from="1575722601028" duration="172000" />
+      <workItem from="1575823610917" duration="1169000" />
+      <workItem from="1575824951135" duration="2958000" />
+      <workItem from="1575989576762" duration="1232000" />
+      <workItem from="1576023515784" duration="613000" />
+      <workItem from="1576030913355" duration="4608000" />
+      <workItem from="1576088679103" duration="53000" />
+      <workItem from="1576094166224" duration="19485000" />
+      <workItem from="1576132691231" duration="1853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="209" width="800" height="684" key="#Inspections" timestamp="1575566547496">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="662" y="209" width="800" height="684" key="#Inspections/0.28.1920.1052@0.28.1920.1052" timestamp="1575566547496" />
+    <state x="924" y="226" width="800" height="738" key="#Intentions" timestamp="1575563858114">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="924" y="226" width="800" height="738" key="#Intentions/0.28.1920.1052@0.28.1920.1052" timestamp="1575563858114" />
+    <state x="643" y="279" width="624" height="557" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575824913242">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="643" y="279" width="624" height="557" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1575824913242" />
+    <state x="724" y="356" width="524" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576124086861">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="724" y="356" width="524" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1576124086861" />
+    <state x="1074" y="417" width="494" height="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575564050260">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1074" y="417" width="494" height="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1920.1052@0.28.1920.1052" timestamp="1575564050260" />
+    <state x="1045" y="395" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576088720251">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1045" y="395" width="424" height="491" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1576088720251" />
+    <state x="1084" y="430" width="559" height="294" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1575564032287">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="1084" y="430" width="559" height="294" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1575564032287" />
+    <state x="654" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1576124339516">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="654" y="401" width="672" height="678" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1576124339516" />
+  </component>
+</project>
