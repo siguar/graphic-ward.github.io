@@ -22,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -93,14 +94,22 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="1074" y="417" width="494" height="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1920.1052@0.28.1920.1052" timestamp="1575564050260" />
+    <state x="164" y="64" width="845" height="988" key="CommitChangelistDialog2" timestamp="1576170982814">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="164" y="64" width="845" height="988" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1576170982814" />
     <state x="1045" y="395" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576088720251">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="1045" y="395" width="424" height="491" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1576088720251" />
-    <state x="368" y="469" width="436" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576170915630">
+    <state x="186" y="286" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576170999213">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="368" y="469" width="436" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1576170915630" />
+    <state x="186" y="286" width="800" height="543" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1576170999213" />
+    <state x="368" y="469" width="446" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576171078903">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="368" y="469" width="446" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1576171078903" />
     <state x="1084" y="430" width="559" height="294" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1575564032287">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
