@@ -69,7 +69,7 @@
       <workItem from="1576094166224" duration="19485000" />
       <workItem from="1576132691231" duration="7660000" />
       <workItem from="1576342588419" duration="478000" />
-      <workItem from="1576343099727" duration="11830000" />
+      <workItem from="1576343099727" duration="13096000" />
     </task>
     <task id="LOCAL-00001" summary="b">
       <created>1576170983629</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576357357933</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="b">
+      <created>1576361879963</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576361879963</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,10 +183,10 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="1074" y="417" width="494" height="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.28.1920.1052@0.28.1920.1052" timestamp="1575564050260" />
-    <state x="164" y="64" width="845" height="988" key="CommitChangelistDialog2" timestamp="1576357357335">
+    <state x="164" y="64" width="845" height="988" key="CommitChangelistDialog2" timestamp="1576361879824">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="164" y="64" width="845" height="988" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1576357357335" />
+    <state x="164" y="64" width="845" height="988" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1576361879824" />
     <state x="0" y="122" width="1536" height="878" key="DiffContextDialog" timestamp="1576175393083">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
@@ -192,10 +199,10 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="186" y="286" width="800" height="543" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1576170999213" />
-    <state x="368" y="469" width="446" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576361871680">
+    <state x="368" y="469" width="446" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576363137871">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="368" y="469" width="446" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1576361871680" />
+    <state x="368" y="469" width="446" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1576363137871" />
     <state x="356" y="350" width="517" height="450" key="git4idea.merge.GitMergeDialog" timestamp="1576174580758">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
